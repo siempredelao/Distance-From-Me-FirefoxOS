@@ -1,0 +1,48 @@
+﻿{
+	"version": "0.1",
+	
+	"name": "Distance From Me",
+	
+	"description": "Distance From Me is an intuitive tool to calculate distances in a straight line between current position and any location (in yards or miles). You can specify the location manually, or search with the search engine.",
+	
+	"launch_path": "/index.html",
+	
+	"icons": {
+		"60": "/img/ico_60.png",
+		"128": "/img/ico_128.png"
+	},
+	
+	"permissions": {
+		"geolocation": {
+			"description": "Required to know your current location."
+		}
+	},
+	
+	"developer": {
+		"name": "David Aguiar",
+		"url": "http://goo.gl/Hu0Nb0"
+	},
+	
+	"default_locale": "en",
+	
+	"locales": {
+		"es": {
+			"description": "Distance From Me es una intuitiva herramienta para calcular distancias en línea recta entre la posición actual y lugares que especifiquemos (en metros o en kilómetros). Podrás indicar el lugar manualmente o buscar un lugar mediante el buscador."
+		},
+		"it": {
+			"description": "Distance From Me è uno strumento intuitivo per calcolare distanze in linea retta tra la posizione corrente e luoghi specificati (in metri o chilometri). È possibile specificare la posizione manualmente, o rilassarsi con la ricerca."
+		},
+		"fr": {
+			"description": "Distance From Me est un outil intuitif pour calculer les distances à des endroits en ligne droite (en mètres ou kilomètres). Vous pouvez spécifier l'emplacement manuellement, ou rechercher avec le chercheur."
+		},
+		"de": {
+			"description": "Distance From Me ist ein intuitives Werkzeug, um Entfernungen in einer geraden Linie zwischen der aktuellen Position und dem Ort, die Sie möchten (in Metern oder Kilometern) zu berechnen. Sie können den Ort manuell oder mit der Suchmaschine."
+		},
+		"ca": {
+			"description": "Distance From Me és una intuïtiva ferramenta per calcular distàncies a llocs en línia recta (en metres o en kilòmetres). Podràs indicar el lloc manualment o cercar un lloc mitjançant el cercador."
+		},
+		"pt": {
+			"description": "Distance From Me é uma ferramenta intuitiva para calcular distâncias em linha reta entre a posição atual e lugares especificados (em metros ou quilômetros). Você pode especificar o local manualmente, ou relaxar na pesquisa."
+		}
+	}
+}
